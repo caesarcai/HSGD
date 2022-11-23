@@ -1,6 +1,6 @@
 # HSGD
 
-This repository is for our paper:
+This Matlab repository is for our paper:
 
 [1] HanQin Cai, Jian-Feng Cai, and Juntao You. <a href=https://arxiv.org/abs/2204.03316>Structured Gradient Descent for Fast Robust Low-Rank Hankel Matrix Completion</a>. *arXiv*:2204.03316, 2022.
 
