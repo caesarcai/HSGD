@@ -1,4 +1,4 @@
-# HSGD
+# Hankel Structured Gradient Descent (HSGD)
 
 This Matlab repository is for our paper:
 
