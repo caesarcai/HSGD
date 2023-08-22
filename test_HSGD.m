@@ -21,7 +21,7 @@ gamma_decay = 0.95;
 tol = 1e-6;
 max_iter = 1000;
 proj = true;
-[si,x,err,timer] = HSGD(obs,n,r,K,alpha,eta,gamma_init,gamma_decay,proj,tol,max_iter);
+[x,err,timer] = HSGD(obs,n,r,K,alpha,eta,gamma_init,gamma_decay,proj,tol,max_iter);
 
 %SNR = snr(ox,ox-x)
 norm(ox-x)/norm(ox)
